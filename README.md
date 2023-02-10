@@ -1,2 +1,1 @@
-# SIMP-Sistem-Informasi-Manajemen-Pegawai-
-you simp
+# Laravel Information System Template
